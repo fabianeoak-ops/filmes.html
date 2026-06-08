@@ -1,4 +1,5 @@
 Galeria de Filmes Favoritos
+
 Descrição
 
 Projeto desenvolvido como atividade prática da disciplina de Desenvolvimento WEB, utilizando HTML para criar uma galeria de filmes favoritos. 
