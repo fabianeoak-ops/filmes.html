@@ -18,18 +18,28 @@ As Branquelas
 O Rei Leão
 Tecnologia Utilizada
 HTML5
+
 Estrutura do Projeto
+
 ├── filmes.html
+
 ├── Jurassic Park.jpg
+
 ├── The_Matrix_Poster.jpg
+
 ├── o-poderoso-chefao-poster.png
+
 ├── coringa.jpg
+
 ├── as branquelas.jpg
+
 └── O Rei Leão.jpeg
+
 Como Executar
 Faça o download ou clone o repositório.
 Certifique-se de que todos os arquivos estejam na mesma pasta.
 Abra o arquivo filmes.html em qualquer navegador.
+
 Funcionalidades
 Exibição de imagens dos filmes favoritos.
 Acesso às páginas da Wikipédia por meio de links.
@@ -37,6 +47,5 @@ Link para retorno ao topo da página.
 
 Autora: Fabiane Aparecida de Carvalho Santos
 
-Fabiane Aparecida de Carvalho Santos
 
 Atividade acadêmica desenvolvida para a disciplina de Elementos Multimídia.
