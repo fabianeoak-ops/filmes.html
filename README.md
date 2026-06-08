@@ -46,6 +46,3 @@ Acesso às páginas da Wikipédia por meio de links.
 Link para retorno ao topo da página.
 
 Autora: Fabiane Aparecida de Carvalho Santos
-
-
-Atividade acadêmica desenvolvida para a disciplina de Elementos Multimídia.
